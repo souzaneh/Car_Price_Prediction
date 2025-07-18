@@ -48,25 +48,13 @@ scikit-learn for ML pipeline and modeling
 Database: MySQL (mysql-connector-python)
 
 
-
----
-
-📂 Project Structure
-
-car-price-prediction/
-│
-├── final_project_car_price_predict.py   # Main script
-├── README.md                            # Documentation
-└── requirements.txt                     # Python dependencies
-
-
 ---
 
 ⚙️ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/car-price-prediction.git
+git clone: https://github.com/souzaneh/Car_Price_Prediction
 cd car-price-prediction
 
 
@@ -87,10 +75,6 @@ Create a database named truecar_db.
 
 Update MySQL credentials in the script if needed.
 
-
-
-
-
 ---
 
 ▶️ How to Run
@@ -100,7 +84,7 @@ Update MySQL credentials in the script if needed.
 
 2. Run the Python script:
 
-python final_project_car_price_predict.py
+python codes_car_price_predict.py
 
 
 
@@ -128,14 +112,6 @@ Perform hyperparameter tuning.
 Deploy via Flask/Django as a web API.
 
 Host on cloud for real-time predictions.
-
-
-
----
-
-🖼️ Screenshots
-
-(Add plots or sample outputs if available)
 
 
 ---
