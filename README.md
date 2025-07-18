@@ -54,18 +54,6 @@ scikit-learn for ML pipeline and modeling
 Database: MySQL (mysql-connector-python)
 
 
-
----
-
-📂 Project Structure
-
-car-price-prediction/
-│
-├── car_price_predict.py  
-├── README.md 
-└── requirements.txt                    
-
-
 ---
 
 ⚙️ Installation
