@@ -119,4 +119,6 @@ Host on cloud for real-time predictions.
 👩‍💻 Author
 
 Suzaneh Sehati
+
 GitHub | LinkedIn
+https://www.linkedin.com/in/souzaneh-sehati
