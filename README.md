@@ -175,16 +175,6 @@ Database: MySQL (mysql-connector-python)
 
 
 
----
-
-📂 Project Structure
-
-car-price-prediction/
-│
-├── final_project_car_price_predict.py   # Main script
-├── README.md                            # Documentation
-└── requirements.txt                     # Python dependencies
-
 
 ---
 
