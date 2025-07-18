@@ -61,9 +61,9 @@ Database: MySQL (mysql-connector-python)
 
 car-price-prediction/
 │
-├── final_project_car_price_predict.py   # Main script
-├── README.md                            # Documentation
-└── requirements.txt                     # Python dependencies
+├── car_price_predict.py  
+├── README.md 
+└── requirements.txt                    
 
 
 ---
@@ -73,6 +73,7 @@ car-price-prediction/
 1. Clone the repository:
 
 git clone https://github.com/souzaneh/Car-Price-Prediction.git
+
 cd Car-Price-Prediction
 
 
